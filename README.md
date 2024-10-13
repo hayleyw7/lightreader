@@ -10,7 +10,7 @@ Dark text on a light background, also known as light, day, or positive polarity 
 
 This emphasis on accessibility and inclusivity often helps individuals with disabilities and those without. This extension was created to address the gap, as several dark mode extensions already exist, such as [Dark Reader](https://github.com/darkreader/darkreader).
 
-[Sources and research quoted and listed here.](https://github.com/hayleyw7/documentation/theme.md)
+[Sources and research quoted and listed here.](https://github.com/hayleyw7/documentation/purpose/theme.md)
 
 ### Tahoma Font
 
@@ -18,7 +18,7 @@ Sans serif fonts, which lack decorative elements, are often preferred in digital
 
 Additionally, Tahoma has slightly more space between letters, improving readability and making it easier to read on-screen text, especially on websites that use overly ornate or difficult-to-read serif fonts.
 
-[Sources and researched quoted and listed here.](https://github.com/hayleyw7/documentation/font.md)
+[Sources and researched quoted and listed here.](https://github.com/hayleyw7/documentation/purpose/font.md)
 
 ## License
 
