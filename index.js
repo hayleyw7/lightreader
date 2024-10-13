@@ -1,5 +1,3 @@
-// this file exists in case site contains more specific css rules
-
 const applyLightReaderStyles = () => {
   const style = document.createElement('style');
   style.textContent = `
