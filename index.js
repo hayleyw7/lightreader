@@ -8,7 +8,6 @@ const applyLightReaderStyles = () => {
     html body > div > p > * {
       background-color: white !important;
       color: black !important;
-      font-family: Tahoma, sans-serif !important;
     }
   `;
   document.head.appendChild(style);
